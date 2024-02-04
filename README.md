@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+Hello guys, I am Luke from Thailand!
+大家好，我是魯柯！
 
 Personal website: www.lukecreated.com
 
