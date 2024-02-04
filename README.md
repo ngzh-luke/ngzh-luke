@@ -1,8 +1,7 @@
 ### Hello there 👋
-Hello guys, I am Luke from Thailand!
-大家好，我是魯柯！
+Hello guys, I am Luke from Thailand! ｜ 大家好，我是魯柯，來自泰國！
 
-Personal website: www.lukecreated.com
+Personal website ｜ 個人網站: www.lukecreated.com
 
 <!--
 **ngzh-luke/ngzh-luke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
