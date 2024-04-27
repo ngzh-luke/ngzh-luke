@@ -3,6 +3,8 @@ Hello guys, I am Luke from Thailand! ｜ 大家好，我是魯柯，來自泰國
 
 Personal website ｜ 個人網站: www.lukecreated.com
 
+Contact me at | 联系方式: contact@lukecreated.com
+
 <!--
 **ngzh-luke/ngzh-luke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
