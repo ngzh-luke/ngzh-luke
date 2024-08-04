@@ -6,13 +6,13 @@ Hello guys, I am `Luke` from Thailand! ｜ 大家好，我是`魯柯`，來自�
 
 ## Reach me!
 
-Contact me at | 联系方式: contact@lukecreated.com
+Contact me at | 联系方式: contact@lukecreated.com OR https://linkedin.com/in/aium-luke
 
 Personal website ｜ 個人網站: www.lukecreated.com
 
 ## Interest in...
 
-- Full Stack Web Development
+- Full Stack Web development & Mobile app development
 - ML & DL
 - Cloud Computing
 <!--
