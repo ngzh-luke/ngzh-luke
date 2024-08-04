@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
+<img src="https://wakatime.com/share/@ngzhluke/3a722d01-ade2-4531-9632-1bcce28bc053.svg" width="720"></img>
 ![ngzhluke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ngzhluke)
 ![ngzh-luke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngzh-luke&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
