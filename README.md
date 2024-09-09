@@ -1,8 +1,6 @@
-## Introduction 👋
+👋 Hello guys, I am `Luke` from Thailand! ｜ 大家好，我是`魯柯`，來自泰國！
 
 "**Always learning**"
-
-Hello guys, I am `Luke` from Thailand! ｜ 大家好，我是`魯柯`，來自泰國！
 
 ## Reach me!
 
@@ -83,8 +81,8 @@ _
 
 ## Stats
 
-<img src="https://wakatime.com/share/@ngzhluke/3a722d01-ade2-4531-9632-1bcce28bc053.svg" width="788"></img>
-<img src="https://wakatime.com/share/@ngzhluke/7343f146-5579-4a53-88a4-230616e47b74.svg" width="788"></img>
+<img src="https://wakatime.com/share/@ngzhluke/3a722d01-ade2-4531-9632-1bcce28bc053.svg" width="888"></img>
+<img src="https://wakatime.com/share/@ngzhluke/7343f146-5579-4a53-88a4-230616e47b74.svg" width="888"></img>
 ![ngzhluke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ngzhluke)
 ![ngzh-luke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngzh-luke&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
